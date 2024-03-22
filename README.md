@@ -2,11 +2,9 @@
 
 ## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC-SP.
 - 🔭 Desenvolvendo um TCC sobre {tema}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💼 Trabalhando como Dev FullStack .NET no nível Pleno.
 
 ## My Skills
 
