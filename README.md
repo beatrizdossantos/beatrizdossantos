@@ -2,10 +2,10 @@
 
 ## About Me
 
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC-SP.
-- 🔭 Desenvolvendo um TCC sobre {tema}.
-- 💼 Trabalhando como Dev FullStack .NET no nível Pleno.
-
+- 🎓 Studying Systems Development at FATEC-SP.
+- 🔭 Writing a Undergraduate Thesis about {theme}.
+- 💼 Working as a .NET FullStack Developer.
+  
 ## My Skills
 
 **Applications and Data**
