@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 Studying Systems Development at FATEC-SP.
-- 🔭 Writing a Undergraduate Thesis about {theme}.
+- 🔭 Writing a Undergraduate Thesis about DevSecOps.
 - 💼 Working as a .NET FullStack Developer.
   
 ## My Skills
